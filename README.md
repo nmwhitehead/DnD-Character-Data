@@ -1,4 +1,4 @@
-# DnD_Character_stats
+# DnD-Character-Data
 
 Back in 2017, there was an article written on [FiveThirtyEight](https://fivethirtyeight.com/features/is-your-dd-character-rare/) about how popular each of the Class and Race mixes were in D&D 5th Edition, acording to dndbeyond, the most popular site for creating D&D characters online. I, like many, was disapointed to discover that in a world filled with Elven Druids, Gnomes Warlocks, and Goliath Barbarians the most popular race and class mix was boring old Human Fighter. I wanted to dig deeper into this disappointing data, but struggled to find the data source, so I instead turned to Kaggle, where I found a [dataset claiming to have 1.2 miilion character from dndbeyond](https://www.kaggle.com/datasets/maximebonnin/dnd-characters-test), and even though it's more like half a mllion after remvoing duplicates, that's still a lot of characters.
 
@@ -17,4 +17,8 @@ I wanted to dig deeper on this, but "Is Players First Character" was unfortunate
 
 ![image](https://github.com/nmwhitehead/DnD-Character-Data/assets/54327232/3fd0f033-66ac-43f4-a309-0239a6bedc48)
 
-On the bright side, the choice of fighter as a character class does stop being the most popular at higher levels.
+On the bright side, the choice of fighter as a character class does stop being the most popular at higher levels. By level 16, wizard surpasses rogue and fighter and becomes the most popular class.
+
+The reason for this is simple. At higher levels, the abilities granted to magic users are far more interesting and far more versatile than the skills granted to a high level fighter. At level 20, a fighter can attack 3 more times per turn. That's a lot of attacks, and a lot of damage, but it's still just swinging a weapon. At level 20 a wizrd can now learn up to 9th level spells, and while they can only cast 1 9th level spell a day, you don't have to do much after cast a Metor Swarm on an enemy encampment. 7th level, which gives you two spell slots, has spells like Delayed Blast Fireball for leaving traps, Teleport for escaping with your group, and Reverse Gravity for...removal purposes. And that's not even looking at all of the other levels. My point being, it's understandable that wizard is more popular for people starting at a higher level.
+
+But this does also return me to my point that it is likely not first time players that are starting these higher level characters. You don't want to start your first play with a massive arsonal of crazy spells. You want to start as an adventruer with a sword. So it's crazy to me that humans are still the most common race when you could be a humnoid bird, or the element of fire shaped like a person, but I digress.
